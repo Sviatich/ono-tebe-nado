@@ -99,6 +99,7 @@ button {
     min-height: 757px;
     background-image: url('../images/cover.jpg');
     background-size: cover;
+    background-position: center;
     z-index: 0;
 }
 
@@ -197,6 +198,8 @@ button {
 .lots__container-card {
     position: relative;
     list-style: none;
+    background-position: center;
+    background-size: cover;
 }
 
 .lots__container-card-title {
@@ -213,15 +216,15 @@ button {
     color: #fff;
 }
 
-.lot-background-left {
+.lot-background-film {
     background-image: url('../images/card-lot-01.jpg');
 }
 
-.lot-background-center {
+.lot-background-book {
     background-image: url('../images/card-lot-02.jpg');
 }
 
-.lot-background-right {
+.lot-background-picture {
     background-image: url('../images/card-lot-03.jpg');
 }
 
