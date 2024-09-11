@@ -16,6 +16,8 @@
 - CSS
 - Git
 
+## Контакты
+
 - Автор: Святослав Петрин.
 - Ссылка: https://github.com/Sviatich/ono-tebe-nado
 
